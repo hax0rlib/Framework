@@ -26,6 +26,8 @@
     "mockery/mockery": "~0.9"
   },
   "autoload": {
-    
+    "psr-4": {
+      "": "src/"
+    }
   }
 }
